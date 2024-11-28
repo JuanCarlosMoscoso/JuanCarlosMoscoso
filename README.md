@@ -1,6 +1,6 @@
 ## Hola, Soy Juan Carlos.  👋
 
-Soy un desarrollador con más de 2 años. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con los demás.
+Soy un desarrollador con más de 2 años de experiencia. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con los demás.
 
 <h3> 🛠 &nbsp;Mi Stack Tecnológico</h3>
 
